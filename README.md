@@ -13,3 +13,8 @@ Provide results for search keywords and locate the location.
 ## Screen Shoot
 ### Initial Screen
 ![Initial Screen](./ScreenShoot/initialize.png)
+### search for Boston
+![Initial Screen](./ScreenShoot/boston_search.png)
+### choose the search result then locate to Boston
+![Initial Screen](./ScreenShoot/boston_find.png)
+
