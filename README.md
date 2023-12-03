@@ -10,3 +10,6 @@ I, traveler, use the app to find the views.<br>
 ## MVP
 Show the world map.<br>
 Provide results for search keywords and locate the location.
+## Screen Shoot
+### Initial Screen
+![Initial Screen](./ScreenShoot/initialize)
