@@ -12,4 +12,4 @@ Show the world map.<br>
 Provide results for search keywords and locate the location.
 ## Screen Shoot
 ### Initial Screen
-![Initial Screen](./ScreenShoot/initialize)
+![Initial Screen](./ScreenShoot/initialize.png)
